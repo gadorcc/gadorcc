@@ -1,7 +1,8 @@
-### Hi there 👋
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width='100"/>
+### Hi there 👋 
+<div align="center">
+  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="400" height="400"/>
 </div>
+                                                                             
 <!--
 **gadorcc/gadorcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
