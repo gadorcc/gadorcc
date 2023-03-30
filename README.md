@@ -37,6 +37,12 @@ I'm an ex-mechanical engineer that recently fall in love badly with programming,
   &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   </div>
+
+## 📖 Currently learning and working on . . .
+- Algorithms and data structures (CS50X and Codewars)
+- Computer science background
+- Test Driven Development
+- Python (Udemy)
   
 ## 🤩 Connect with me
 <div id="badges">
@@ -44,7 +50,7 @@ I'm an ex-mechanical engineer that recently fall in love badly with programming,
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  
+
 <!--
 **gadorcc/gadorcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
