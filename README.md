@@ -40,7 +40,7 @@ I'm an ex-mechanical engineer that recently fall in love badly with programming,
   
 ## 🤩 Connect with me
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)">
+  <a href="https://www.linkedin.com/in/gadorcc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
