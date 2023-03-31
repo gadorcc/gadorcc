@@ -1,5 +1,5 @@
 
-<div align="center">Hi, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></span></div>
+<div align="center">Hola, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></span></div>
 
 <img align="right" width="200" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" />
 
@@ -27,6 +27,8 @@ I'm an ex-mechanical engineer that recently fall in love badly with programming,
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -39,10 +41,12 @@ I'm an ex-mechanical engineer that recently fall in love badly with programming,
   </div>
 
 ## 📖 Currently learning and working on . . .
-- Algorithms and data structures (CS50X and Codewars)
+- Algorithms and data structures 
 - Computer science background
 - Test Driven Development
-- Python (Udemy)
+- Python 
+- Arduino hacking buttons project
+- Looking to collaborate in open source projects
   
 ## 🤩 Connect with me
 <div id="badges">
