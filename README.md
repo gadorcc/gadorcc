@@ -49,9 +49,13 @@ I'm a former mechanical engineer who recently fell in love with programming, alw
   
 ## 🤩 Connect with me
 <div id="badges">
+  <a href="mailto: gadorcruz@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/gadorcc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
 </div>
 
 <!--
