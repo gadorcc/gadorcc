@@ -41,7 +41,6 @@ I'm a former mechanical engineer who recently fell in love with programming, alw
 
 ## 📖 Currently learning and working on . . .
 - Algorithms and data structures 
-- Computer science background
 - Test Driven Development
 - Python 
 - Arduino hacking buttons project
