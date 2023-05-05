@@ -5,7 +5,8 @@
 
 ##  👩‍💻 A bit about me 
 
-I'm a former mechanical engineer who recently fell in love with programming, always proudly geeky though. One of the hardest decisions I ever made was choosing between mechanical engineering and computer science. 🤔 As life is not a linear path, now is the time to redeem myself, and I couldn't be more committed to enjoying my software developer career to the fullest.
+I'm a former mechanical engineer who recently fell in love with programming and the endless application of logic problem solving. One of the hardest decisions I ever made was choosing between mechanical engineering and computer science. 🤔 As life is not a linear path, and curiosity and learning are a need for me, it is now the time to redeem myself. 
+I couldn't be more committed to enjoying my software developer career to the fullest :rocket:.
 
 ## 💥 Projects 
 
