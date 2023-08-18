@@ -4,14 +4,16 @@
 <img align="right" width="200" src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" />
 
 ##  👩‍💻 A bit about me 
+Tech has been my main hobby since I got my first Amstrad as a kid and created the snake game in C++. After a career in mechanical engineering, I am now pursuing one in software development. I have been preparing since early 2022 through a full-stack development in-person bootcamp, as well as several learning courses and practical projects. I am now immediately available and keen to join your team.
+The tech industry aligns perfectly with my love for problem-solving, intellectual challenges, and collaborative team achievements to make a meaningful impact on users :rocket:.
 
-I'm a former mechanical engineer who recently fell in love with programming and the endless application of logic problem solving. One of the hardest decisions I ever made was choosing between mechanical engineering and computer science. 🤔 As life is not a linear path, and curiosity and learning are a need for me, it is now the time to redeem myself. 
-I couldn't be more committed to enjoying my software developer career to the fullest :rocket:.
 
 ## 💥 Projects 
 
-- [Planit](https://www.wagon-planit.online): ruby on rails web-app to share plans with friend and remove the pain of organising. Built user journey, models and controllers, SQL schema, API to generate plans images, AJAX to improve user journey....
-- [Book a bike](https://book-a-bike2.herokuapp.com/): first group project, ruby on rails web to book a bike. Focusing in Working in groups with standups, retros, trello planning. Built mapdrop API, JS reviews modals, controller logic...
+- [Planit](https://www.wagon-planit.online): Ruby on rails web-app to share plans with users and facilitate organising. Built user journey, backend models and controllers, SQL schema, third party API integration to generate plans images and Ajax to improve user journey.
+Technologies used: rails, JS, HTML, SASS, PostgreSQL, Github, Figma, Heroku.
+- [Book a bike](https://book-a-bike2.herokuapp.com/): Ruby on rails web to book a bike. Collaborate within an agile team with standups, retros and Trello planning. Built Mapdrop API, JS reviews modals, controllers logic.
+Technologies used: rails, JS, HTML, SASS, PostgreSQL, Github, Figma, Heroku.
 
 ## 🛠 My skill set
 <div>
@@ -27,6 +29,8 @@ I couldn't be more committed to enjoying my software developer career to the ful
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
@@ -39,13 +43,13 @@ I couldn't be more committed to enjoying my software developer career to the ful
   &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   </div>
+  
 
 ## 📖 Currently learning and working on . . .
 - Algorithms and data structures 
 - Test Driven Development
 - Python 
-- Arduino hacking buttons project
-- Looking to collaborate in open source projects
+- Voluntereering in digital sources
   
 ## 🤩 Connect with me
 <div id="badges">
